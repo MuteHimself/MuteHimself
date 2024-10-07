@@ -1,16 +1,20 @@
-## Hi there 👋
+Here you go:
 
-<!--
-**MuteHimself/MuteHimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Hi there, I'm Omar Mahmoud 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Senior Computer Science student at **Egypt University of Informatics**  
+🎮 Game Developer | 🤖 AI Researcher
+
+## 🚀 About Me:
+I'm passionate about technology, specifically game development and artificial intelligence. I enjoy solving coding challenges and constantly learning new things. You can check out some of my LeetCode challenges here:  
+**[LeetCode Profile](https://leetcode.com/u/MuteHimself/)**
+
+## 🛠 Skills:
+- 💻 C++ | Java | Python | Scala | C | C#
+- 🎮 Blender for 3D Modeling & Game Design
+- 🧠 AI and Game Development
+
+Feel free to connect with me or check out my repositories! 😊
+
